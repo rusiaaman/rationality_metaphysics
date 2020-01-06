@@ -30,7 +30,7 @@ This section should answer the following:
 2. What are the common patterns in human psychology? What biases are we riddled with? Why do we think what we think? Why are some people more rational than the others?  
 3. How do we create artifical intelligence? Will it be conscious? What does it mean to be conscious?
 
-# 3. [Metaphsics](https://github.com/rusiaaman/rationality_metaphysics/master/metaphysics.md]
+# 3. [Metaphsics](https://github.com/rusiaaman/rationality_metaphysics/master/metaphysics.md)
 [Click here](https://github.com/rusiaaman/rationality_metaphysics/master/metaphysics.md)
 
 This section should answer the following:
