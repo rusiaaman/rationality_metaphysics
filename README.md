@@ -13,8 +13,8 @@ A rational persona (agent) invevitably asks the "why" question repeatedly till t
 
 For other such big questions in philosophy this seems to be a good reference: [The big questions. Solomon et al.](http://elibrary.bsu.az/books_400/N_17.pdf)
 
-# 1. [Rationality](https://github.com/rusiaaman/rationality_metaphysics/master/rationality.md)
-[Click here](https://github.com/rusiaaman/rationality_metaphysics/master/rationality.md)
+# 1. [Rationality](https://github.com/rusiaaman/rationality_metaphysics/blob/master/rationality.md)
+[Click here](https://github.com/rusiaaman/rationality_metaphysics/blob/master/rationality.md)
 
 This section should answer the following:
 1. How do we get to the truth?
@@ -22,16 +22,16 @@ This section should answer the following:
 3. What should we believe when there is incomplete information?
 
 
-# 2. [Science](https://github.com/rusiaaman/rationality_metaphysics/master/science.md)
-[Click here](https://github.com/rusiaaman/rationality_metaphysics/master/science.md)
+# 2. [Science](https://github.com/rusiaaman/rationality_metaphysics/blob/master/science.md)
+[Click here](https://github.com/rusiaaman/rationality_metaphysics/blob/master/science.md)
 
 This section should answer the following:
 1. What are the laws of nature? Bigbang, black holes, entropy, fate of the universe, space-time, constituents of matter and energy, etc.
 2. What are the common patterns in human psychology? What biases are we riddled with? Why do we think what we think? Why are some people more rational than the others?  
 3. How do we create artifical intelligence? Will it be conscious? What does it mean to be conscious?
 
-# 3. [Metaphsics](https://github.com/rusiaaman/rationality_metaphysics/master/metaphysics.md)
-[Click here](https://github.com/rusiaaman/rationality_metaphysics/master/metaphysics.md)
+# 3. [Metaphsics](https://github.com/rusiaaman/rationality_metaphysics/blob/master/metaphysics.md)
+[Click here](https://github.com/rusiaaman/rationality_metaphysics/blob/master/metaphysics.md)
 
 This section should answer the following:
 1. If physical laws describe nature of reality, what describe the nature of physical laws themselves? Why is the value of c (speed of light) and h (plank's constant) what they are and not different? 
