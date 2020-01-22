@@ -9,6 +9,7 @@ Another good meta question that arises here is what is meant by the word 'meanin
 References: 
 1. https://www.lesswrong.com/posts/XqvnWFtRD2keJdwjX/the-useful-idea-of-truth
 2. https://www.lesswrong.com/rationality/the-simple-truth
+
 Notes:
 1. A belief is what an agent like you and me has about the world. An agent creates their own model of the world. 
 2. Reality is what we actually experience (sensory observations). For example, you feel cold when you touch snow. 
