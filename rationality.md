@@ -16,7 +16,21 @@ Notes:
 3. A belief is what determines our predictions our experiences. For example, if I touch snow I will feel cold.
 4. A true belief would lead to predictions which conform to reality, i.e. you'd feel cold everytime you touch snow.
 5. A true belief need not be able to predict observations. For example, the belief 'a photo continues travelling after reaching event horizon of a black hole' can't be tested since the photon would be forever lost for us, with no possibility of interaction.
+6. Conclusion: correspondence between belief and reality is called "truth".
 
 Questions to ask:
-1. How do we know a belief is true if it doesn't make any sensory predictions? Say, god exists but you can only meet him after death.
-2. How to get to a true belief? What if snow suddenly stops feeling cold, does it mean the belief "snow is cold" was false all along?
+1. How do we know a belief is true if it doesn't make any sensory predictions? Say, god exists but you can only meet him after death. 
+2. How to get to a true belief? What if snow suddenly stops feeling cold, does it mean the belief "snow is cold" was false all along? Answer: See section 2.
+3. Do we still need to observe evidence in case of logical deductions and induction?
+
+
+## 2. Epistemic rationality (or how to get to the truth)
+References:
+1. https://www.lesswrong.com/posts/RcZCwxFiZzE6X7nsv/what-do-we-mean-by-rationality
+
+Notes:
+1. Epistemic rationality is about building accurate maps of the world; forming true beliefs.
+
+### Challenges in constructing accurate world model
+References:
+1. https://en.m.wikipedia.org/wiki/Uncertainty_quantification
