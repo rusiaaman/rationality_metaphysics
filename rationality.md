@@ -24,7 +24,14 @@ Questions to ask:
 3. Do we still need to observe evidence in case of logical deductions and induction?
 
 
-## 2. Epistemic rationality (or how to get to the truth)
+## 2. How to get to the truth
+We can experience reality through our senses. We can see the sun and the trees, we can feel the wind and the heat, we can hear when leaves fall to the ground, we can smell the flowers and so on. But is experiencing and observing enough? 
+
+If I see a fruit falling to the ground from a tree. When can we say that the belief "I saw a fruit falling to the ground" is true? It's not impossible that what I thought as a fruit was actually some other object like an animal. It's also possible that it was just a spek of dust on peripheral of my eye which I thought was a fruit falling. Such mistakes happens to the best of us. In such examples it is more of our error at play than anything else. We should know how to not let such errors influence our beliefs. 
+
+More than forming belief about what we observed, generalizing to unobserved is what makes beliefs useful. We can observe that wind blew and fruit fell and believe that it happened. It will be an useful belief because we can then go over the area where fruit fell and eat it. However, it will be more useful to have a belief which we can use to predict when fruits fall or why fruits fall. We can use such beliefs to either make the fruits fall or be under the right tree when a fruit falls before anyone else.
+
+
 References:
 1. https://www.lesswrong.com/posts/RcZCwxFiZzE6X7nsv/what-do-we-mean-by-rationality
 
@@ -34,3 +41,11 @@ Notes:
 ### Challenges in constructing accurate world model
 References:
 1. https://en.m.wikipedia.org/wiki/Uncertainty_quantification
+
+
+## 3. But why to have true beliefs?
+
+We want to have true believes because they are useful for us. If one falsely believes that they can fly, you'd find them dead soon in an attempt to fly away from a cliff. 
+
+Questions to ask:
+1. How does "fake it till you make it" makes sense in this context? Is positive thinking shown to cause desired effects?
